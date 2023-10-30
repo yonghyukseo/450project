@@ -1,5 +1,5 @@
 
-To insert a plot. First use matplotlib (or another tool) to create your plot and create a png from it. You can insert in markdown file as 
+To insert a plot. First use matplotlib (or another tool) to create your plot and create a png from it. You can insert in markdown file as .
 
 | ![Simple_CPU_vs_Memories.jpg](plots/Simple_CPU_vs_Memories.png) | 
 | ![Minor4_CPU_vs_Memories.jpg](plots/Minor4_CPU_vs_Memories.png) | 
