@@ -5,7 +5,7 @@ from __future__ import print_function
 import argparse
 import m5
 from m5.objects import TimingSimpleCPU, DerivO3CPU, MinorCPU
-from m5.objects import LTAGE, SimpleMemory
+from m5.objects import LocalBP, BiModeBP, TournamentBP, LTAGE, SimpleMemory
 from m5.objects import Root
 from m5.objects import *
 import time
