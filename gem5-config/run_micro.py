@@ -12,7 +12,7 @@ import time
 from system import BaseTestSystem
 from system import InfMemory, SingleCycleMemory, SlowMemory
 
-BranchPredictor = LTAGE
+BranchPredictor = LocalBP
 
 class IntALU(FUDesc):
     opList = [ OpDesc(opClass='IntAlu',opLat=1) ]
