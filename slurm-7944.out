@@ -1,0 +1,5 @@
+srun: got SIGCONT
+slurmstepd-ARCH-750: error: *** STEP 7944.0 ON ARCH-750 CANCELLED AT 2023-09-19T05:22:51 ***
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+slurmstepd-ARCH-750: error: *** JOB 7944 ON ARCH-750 CANCELLED AT 2023-09-19T05:22:51 ***
+srun: forcing job termination
